@@ -4,11 +4,11 @@
 ---
     Write out explanations of the following concepts like you are explaining it to a 12 year old.  
 
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+	* Variables : Is like a box in a system where we can save a value.
+	* Strings : Is serie of characters  Ex. "hello german"
+	* Functions (arguments, `return`) : Is a pice of logic that is created to do a specific task.
+	* `if` statements : Is a logic word used in programming to decide upon any action we want to validate.
+	* Boolean values (`true`, `false`) : These represent yes or not. 
 
 
 ### All test passed
